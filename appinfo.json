@@ -1,0 +1,9 @@
+{
+  "id": "com.sharingan.tv",
+  "version": "1.6.4",
+  "vendor": "Personal Project",
+  "type": "web",
+  "main": "index.html",
+  "title": "Sharingan TV",
+  "icon": "icon.png"
+}
